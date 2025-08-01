@@ -153,3 +153,7 @@ whoosh_index/
 #PyCharm
 .idea/
 
+
+docker.md
+Dockerfile
+docker-compose.yaml
