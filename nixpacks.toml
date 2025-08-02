@@ -1,5 +1,0 @@
-[phases.setup]
-nixPkgs = ["gettext"]
-
-[start]
-cmd = "gunicorn horilla.wsgi:application"
